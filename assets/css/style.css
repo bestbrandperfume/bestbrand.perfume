@@ -1971,6 +1971,9 @@
 .header_area.header_four.header_five .main_menu > ul > li > a:hover,.header_area.header_four.header_five .main_menu > ul > li.active > a{
     color: #cea679;
 }
+.header_area.header_four.header_five .main_menu > ul > li > a:hover,.header_area.header_four.header_five .main_menu > ul > li > a.active{
+    color: #cea679;
+}
 .search_area.search_four.search_five a.search_button {
 	border: 2px solid #9a9a9a;
 	color: #9a9a9a;
