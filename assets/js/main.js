@@ -47,16 +47,16 @@
         responsiveClass:true,
 		responsive:{
             0:{
-				items:1,
-			},
-            576:{
 				items:2,
 			},
+            576:{
+				items:4,
+			},
             992:{
-				items:3,
+				items:5,
 			},
             1200:{
-				items:4,
+				items:6,
 			}
 
 		  }
