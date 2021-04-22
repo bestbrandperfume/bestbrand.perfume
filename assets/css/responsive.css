@@ -953,9 +953,9 @@
     .single_slider .row {
         height: 300px;
     }
-    .slider_active.owl-carousel .owl-dots {
+    /* .slider_active.owl-carousel .owl-dots {
         right: 25px;
-    }
+    } */
     .right_info ul li ul {
         left: 0;
         min-width: 130px;

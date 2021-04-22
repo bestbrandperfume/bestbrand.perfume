@@ -479,14 +479,20 @@
 	border: 2px solid #999;
 	border-radius: 50%;
 	margin-bottom: 6px;
+	margin: 5px;
 }
 .slider_active.owl-carousel .owl-dots .owl-dot.active{
-    border: 2px solid #242424;
+    /* border: 2px solid #242424; */
+	border: 2px solid #cea679;
+    background-color: #cea679;
 }
 .slider_active.owl-carousel .owl-dots {
 	position: absolute;
-	right: 60px;
-	top: 50%;
+	text-align: center;
+    bottom: 5%;
+    width: 100%;
+	/* right: 60px;
+	top: 50%; */
 	-webkit-transform: translatey(-50%);
 	transform: translatey(-50%);
 }
