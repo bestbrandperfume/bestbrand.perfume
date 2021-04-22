@@ -38,8 +38,8 @@
     $('.product_active').owlCarousel({
         autoplay: true,
 		loop: true,
-        nav: true,
-        autoplay: false,
+        nav: false,
+        // autoplay: false,
         autoplayTimeout: 8000,
         items: 4,
         dots:false,
@@ -58,9 +58,7 @@
             1200:{
 				items:6,
 			}
-
-		  }
-
+		}
     });
     
     /* custom active activation */
